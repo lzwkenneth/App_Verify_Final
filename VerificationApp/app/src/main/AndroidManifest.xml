@@ -28,7 +28,7 @@
     <application
         android:allowBackup="true"
         tools:replace="android:icon"
-        android:icon="@drawable/spongebob"
+        android:icon="@drawable/greentick"
 
         android:label="@string/app_name"
         android:supportsRtl="true"
@@ -47,7 +47,7 @@
             android:name="kenneth.jf.verificationapp.login"
             android:label="@string/app_name"
             android:theme="@style/Theme.Transparent"
-            android:icon="@drawable/spongebob">
+            android:icon="@drawable/greentick">
 
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
